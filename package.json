@@ -9,7 +9,7 @@
     "css-minify": "grunt build"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "^6.17.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
